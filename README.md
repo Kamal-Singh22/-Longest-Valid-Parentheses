@@ -14,4 +14,4 @@ If the stack is empty after popping, push the current index as the new base.
 Otherwise, the valid substring length is the difference between the current index and the index now on top of the stack.
 Result:
 
-The maximum length recorded is the length of the longest valid parentheses substring.
+The maximum length recorded is the length of the longest valid parentheses substring....
